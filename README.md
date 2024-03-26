@@ -1,2 +1,0 @@
-# nocji
-# awsad
